@@ -1,0 +1,15 @@
+{
+  "name": "@nest-bots/framework-discord",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "repository": "git@github.com:nest-bots/framework-discord.git",
+  "author": "Pascal K.",
+  "license": "MIT",
+  "dependencies": {
+    "@nest-bots/bot-platform": "^1.0.1",
+    "discord.js": "^11.5.1"
+  },
+  "devDependencies": {
+    "@types/node": "^12.7.2"
+  }
+}
